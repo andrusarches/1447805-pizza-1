@@ -11,7 +11,6 @@ Thumbs.db
 *.log*
 node_modules/
 
-
 # Gulp Build Files
 
 template/build
