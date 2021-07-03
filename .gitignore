@@ -10,3 +10,8 @@ Thumbs.db
 # Вспомогательные файлы
 *.log*
 node_modules/
+
+
+# Gulp Build Files
+
+template/build
